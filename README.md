@@ -1,5 +1,5 @@
 
-## [Backprogoation](./backprogoation)
+## [Backpropagation](./backpropagation)
 Backpropagation for a simple neural network and explanation.
 
 ## [Network](./network)
