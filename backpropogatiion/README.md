@@ -3,7 +3,9 @@
 ![image](https://github.com/tsdeepak/cnn-mnist/assets/375801/acd40942-ae2e-4c62-8604-fc52c2f79238)
 
 
-# [Calculation here](https://abc.com)
+#### [for excel file click here](https://abc.com)
+
+![image](https://github.com/tsdeepak/cnn-mnist/assets/375801/06d6c5bc-96fb-4394-aa4c-390ecda31376)
 
 <b>Backpropagation</b>  is an algorithm used to train artificial neural networks. It is a key component of gradient-based optimization methods, such as stochastic gradient descent, that enable neural networks to learn from labeled training data.
 
